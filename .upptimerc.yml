@@ -5,6 +5,7 @@ repo: status # The name of this repository
 sites:
   - name: Realgroove
     url: https://realgroove.net
+    icon: https://realgroove.net/favicon.ico
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
@@ -25,6 +26,7 @@ status-website:
   cname: status.realgroove.net
   # baseUrl: /your-repo-name
   logoUrl: https://realgroove.net/favicon.svg
+  faviconSvg: https://realgroove.net/favicon.svg
   name: Status
   introTitle: "Realgroove Status"
   introMessage: Realgroove에서 제공중인 서비스 상태입니다.
@@ -33,6 +35,11 @@ status-website:
       href: /
     - title: Realgroove
       href: https://realgroove.net
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
