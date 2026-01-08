@@ -4,9 +4,9 @@
     "url": "https://realgroove.net",
     "icon": "https://realgroove.net/favicon.ico",
     "slug": "realgroove",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 777,
     "timeMonth": 886,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-08": 0
+    }
   }
 ]
