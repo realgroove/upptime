@@ -4,19 +4,19 @@
     "url": "https://realgroove.net",
     "icon": "https://realgroove.net/favicon.ico",
     "slug": "realgroove",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 698,
-    "timeWeek": 777,
-    "timeMonth": 886,
-    "timeYear": 886,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 900,
+    "timeDay": 956,
+    "timeWeek": 825,
+    "timeMonth": 900,
+    "timeYear": 900,
     "dailyMinutesDown": {
-      "2026-01-08": 0
+      "2026-01-08": 31
     }
   }
 ]
