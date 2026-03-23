@@ -5,16 +5,16 @@
     "icon": "https://realgroove.net/favicon.ico",
     "slug": "realgroove",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 901,
-    "timeDay": 918,
-    "timeWeek": 796,
-    "timeMonth": 926,
-    "timeYear": 901,
+    "uptimeYear": "99.98%",
+    "time": 897,
+    "timeDay": 493,
+    "timeWeek": 784,
+    "timeMonth": 911,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2026-01-08": 31
     }
